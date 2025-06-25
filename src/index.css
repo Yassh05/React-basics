@@ -1,0 +1,37 @@
+.card{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px  5px 10px yellow;
+    text-align: center;
+    max-width:250px;
+    display: inline-block;
+    overflow: hidden;
+}
+img{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+h2,p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+button{
+    color: red;
+    height: 60px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+    background-color: antiquewhite;
+    
+}
+
+.welcome{
+    font-size: 2.5rem;
+    background-color: bisque;
+}

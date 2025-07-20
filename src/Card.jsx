@@ -6,7 +6,7 @@ function Card(props){
                 <img src={pic}alt="gaara" />
                 <h2>{props.name}</h2>
                 <p>
-                    I'M LEARNING REACT.JS
+                    I'M LEARNING REACT.JS.
                 </p>
         </div>
     );

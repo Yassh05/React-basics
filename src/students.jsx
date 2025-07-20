@@ -2,7 +2,7 @@
 
 function Student (props){
         return(
-            <div>
+            <div className="student">
                 <p>Name : {props.name}</p>
                 <p>Age : {props.age}</p>
             </div>
@@ -10,7 +10,7 @@ function Student (props){
 }
 // Student.propTypes={
 //     name: propTypes.string,
-//     age: propTypes.string,
+//     age: propTypes.number,
 
 // }
 

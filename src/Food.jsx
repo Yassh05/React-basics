@@ -7,7 +7,10 @@ function Food(){
             <li>grapes</li>
             <li>{food1}</li>
             <li>{food2.toUpperCase()}</li>
-        </ul>
+            <hr />
+            <hr />
+        </ul> 
+        
     );
 
 }
